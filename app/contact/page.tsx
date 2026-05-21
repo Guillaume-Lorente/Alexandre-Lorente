@@ -14,87 +14,95 @@ export default function ContactPage() {
   );
 
   return (
-    <main>
-      <section className="relative bg-[#0B1725] px-6 pb-24 pt-40 text-white">
-        <Navbar />
+    <main className="min-h-screen bg-[#0B1725] text-white">
+      <Navbar />
 
-        <div className="mx-auto max-w-5xl text-center">
-          <p className="mb-4 text-sm font-medium uppercase tracking-[0.2em] text-[#5B8DB8]">
-            Contact
-          </p>
+      <section className="relative flex min-h-screen items-center overflow-hidden px-6 pb-12 pt-32">
+        <div
+          className="absolute inset-0 bg-cover bg-center opacity-25 image-soft"
+          style={{
+            backgroundImage:
+              "url('https://images.unsplash.com/photo-1516483638261-f4dbaf036963?q=80&w=2070&auto=format&fit=crop')",
+          }}
+        />
 
-          <h1 className="text-5xl font-semibold leading-tight md:text-7xl">
-            {t(
-              'Organiser une session avec Alexandre',
-              'Plan a session with Alexandre'
-            )}
-          </h1>
+        <div className="absolute inset-0 bg-gradient-to-t from-[#0B1725] via-[#0B1725]/85 to-[#0B1725]/40" />
 
-          <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-white/70">
-            {t(
-              'Le plus simple est de me contacter directement par WhatsApp ou SMS pour échanger sur votre niveau, vos envies et les conditions du moment.',
-              'The easiest way is to contact me directly by WhatsApp or SMS to discuss your level, goals and current conditions.'
-            )}
-          </p>
-        </div>
-      </section>
-
-      <section className="bg-[#F8FAFC] py-24">
-        <div className="mx-auto grid max-w-5xl grid-cols-1 gap-6 px-6 md:grid-cols-2">
-          <a
-            href={getWhatsappUrl(message)}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="rounded-[32px] bg-[#25D366] p-10 text-white transition hover:scale-[1.01]"
-          >
-            <p className="mb-6 text-sm font-medium uppercase tracking-[0.2em] text-white/80">
-              WhatsApp
+        <div className="relative mx-auto grid w-full max-w-6xl grid-cols-1 gap-10 lg:grid-cols-2 lg:items-center">
+          <div>
+            <p className="text-xs font-semibold uppercase tracking-[0.28em] text-[#5B8DB8]">
+              {t('Contact', 'Contact')}
             </p>
 
-            <h2 className="text-3xl font-semibold">
-              {t('Envoyer un message', 'Send a message')}
-            </h2>
-
-            <p className="mt-5 leading-relaxed text-white/85">
+            <h1 className="mt-6 max-w-2xl text-5xl font-semibold tracking-[-0.05em] md:text-7xl">
               {t(
-                'Idéal pour une réponse simple et rapide.',
-                'Ideal for a simple and quick reply.'
+                'Organiser une session simplement',
+                'Plan a session easily'
+              )}
+            </h1>
+
+            <p className="mt-8 max-w-xl text-lg leading-relaxed text-white/70">
+              {t(
+                'Écrivez-moi directement par WhatsApp ou SMS pour échanger sur votre niveau, vos envies et les conditions du moment.',
+                'Message me directly on WhatsApp or SMS to discuss your level, goals and current conditions.'
               )}
             </p>
-          </a>
+          </div>
 
-          <a
-            href={getSmsUrl(message)}
-            className="rounded-[32px] bg-[#0B1725] p-10 text-white transition hover:scale-[1.01]"
-          >
-            <p className="mb-6 text-sm font-medium uppercase tracking-[0.2em] text-white/50">
-              SMS
-            </p>
+          <div className="rounded-[40px] border border-white/10 bg-white/10 p-6 backdrop-blur-xl md:p-8">
+            <div className="grid grid-cols-1 gap-4">
+              <a
+  href={getWhatsappUrl(message)}
+  target="_blank"
+  rel="noopener noreferrer"
+  className="rounded-[28px] bg-[#25D366] px-8 py-7 !text-white transition duration-300 hover:scale-[1.01] hover:bg-[#20bd5c]"
+>
+  <p className="text-xs font-semibold uppercase tracking-[0.22em] text-white/70">
+    WhatsApp
+  </p>
 
-            <h2 className="text-3xl font-semibold">
-              {t('Envoyer un SMS', 'Send an SMS')}
-            </h2>
+  <h2 className="mt-4 text-3xl font-semibold tracking-[-0.04em]">
+    {t('Envoyer un message', 'Send a message')}
+  </h2>
 
-            <p className="mt-5 leading-relaxed text-white/70">
+  <p className="mt-3 text-sm leading-relaxed text-white/80">
+    {t(
+      'Le moyen le plus simple et le plus rapide.',
+      'The easiest and fastest way.'
+    )}
+  </p>
+</a>
+
+              <a
+                href={getSmsUrl(message)}
+                className="rounded-[28px] border border-white/10 bg-[#0B1725]/80 px-8 py-7 !text-white transition duration-300 hover:scale-[1.01]"
+              >
+                <p className="text-xs font-semibold uppercase tracking-[0.22em] text-[#5B8DB8]">
+                  SMS
+                </p>
+
+                <h2 className="mt-4 text-3xl font-semibold tracking-[-0.04em]">
+                  {t('Envoyer un SMS', 'Send an SMS')}
+                </h2>
+
+                <p className="mt-3 text-sm leading-relaxed text-white/60">
+                  {t(
+                    'Une alternative simple si vous préférez écrire directement.',
+                    'A simple alternative if you prefer to write directly.'
+                  )}
+                </p>
+              </a>
+            </div>
+
+            <p className="mt-6 text-center text-sm leading-relaxed text-white/55">
               {t(
-                'Une alternative rapide si vous préférez écrire directement.',
-                'A quick alternative if you prefer to write directly.'
+                'Réponse dès que possible selon les cours et les conditions en montagne.',
+                'Reply as soon as possible depending on lessons and mountain conditions.'
               )}
             </p>
-          </a>
-        </div>
-
-        <div className="mx-auto mt-12 max-w-3xl px-6 text-center">
-          <p className="text-[#667085]">
-            {t(
-              'Alexandre répond généralement dès que possible, selon les cours et les conditions en montagne.',
-              'Alexandre usually replies as soon as possible, depending on lessons and mountain conditions.'
-            )}
-          </p>
+          </div>
         </div>
       </section>
-
-      <Footer />
     </main>
   );
 }

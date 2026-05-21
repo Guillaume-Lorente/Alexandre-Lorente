@@ -36,3 +36,32 @@ a {
 button {
   cursor: pointer;
 }
+
+::selection {
+  background: #5b8db8;
+  color: white;
+}
+
+.luxury-shadow {
+  box-shadow:
+    0 24px 80px rgba(11, 23, 37, 0.14),
+    0 8px 24px rgba(11, 23, 37, 0.08);
+}
+
+.luxury-border {
+  border: 1px solid rgba(11, 23, 37, 0.08);
+}
+
+.glass-dark {
+  background: rgba(11, 23, 37, 0.72);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.image-soft {
+  filter: saturate(0.92) contrast(1.03);
+}
+
+html {
+  scroll-padding-top: 130px;
+}
