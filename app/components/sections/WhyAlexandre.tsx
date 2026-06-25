@@ -1,37 +1,11 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { useLang } from '@/app/context/LanguageContext';
+import { useIntl } from '@/app/i18n/IntlProvider';
 
 export default function WhyAlexandre() {
-  const { t } = useLang();
-
-  const reasons = [
-    {
-      titleFr: 'Une pédagogie claire',
-      titleEn: 'Clear teaching',
-      textFr:
-        'Des conseils simples, précis et adaptés pour comprendre, progresser et prendre confiance.',
-      textEn:
-        'Simple, precise and adapted guidance to understand, improve and build confidence.',
-    },
-    {
-      titleFr: 'Un rythme adapté',
-      titleEn: 'Your own pace',
-      textFr:
-        'Chaque session s’ajuste à votre niveau, vos sensations et vos objectifs du moment.',
-      textEn:
-        'Each session adapts to your level, your feelings and your goals for the day.',
-    },
-    {
-      titleFr: 'Une vraie culture montagne',
-      titleEn: 'Real mountain culture',
-      textFr:
-        'Une approche ancrée dans l’environnement alpin, entre plaisir, sécurité et découverte.',
-      textEn:
-        'An approach rooted in the alpine environment, combining enjoyment, safety and discovery.',
-    },
-  ];
+  const { dict } = useIntl();
+  const t = dict.why;
 
   return (
     <section className="relative overflow-hidden bg-[#0B1725] py-10 text-white">
@@ -47,29 +21,23 @@ export default function WhyAlexandre() {
             className="lg:col-span-5"
           >
             <p className="mb-5 text-xs font-semibold uppercase tracking-[0.28em] text-[#5B8DB8]">
-              {t('Pourquoi Alexandre', 'Why Alexandre')}
+              {t.eyebrow}
             </p>
 
             <h2 className="text-4xl font-semibold tracking-[-0.04em] md:text-6xl">
-              {t(
-                'Progresser sans pression, avec confiance',
-                'Progress without pressure, with confidence'
-              )}
+              {t.title}
             </h2>
 
             <p className="mt-8 max-w-xl text-lg leading-relaxed text-white/65">
-              {t(
-                'L’idée n’est pas seulement d’enchaîner les descentes, mais de construire une expérience où chaque conseil aide vraiment à se sentir mieux sur la neige.',
-                'The idea is not just to ski more runs, but to build an experience where each piece of advice truly helps you feel better on snow.'
-              )}
+              {t.intro}
             </p>
           </motion.div>
 
           <div className="lg:col-span-7">
             <div className="space-y-4">
-              {reasons.map((reason, index) => (
+              {t.reasons.map((reason, index) => (
                 <motion.div
-                  key={reason.titleFr}
+                  key={reason.title}
                   initial={{ opacity: 0, y: 24 }}
                   whileInView={{ opacity: 1, y: 0 }}
                   viewport={{ once: true, margin: '-120px' }}
@@ -82,11 +50,11 @@ export default function WhyAlexandre() {
 
                   <div>
                     <h3 className="text-2xl font-semibold tracking-[-0.02em]">
-                      {t(reason.titleFr, reason.titleEn)}
+                      {reason.title}
                     </h3>
 
                     <p className="mt-3 max-w-2xl leading-relaxed text-white/60">
-                      {t(reason.textFr, reason.textEn)}
+                      {reason.text}
                     </p>
                   </div>
                 </motion.div>

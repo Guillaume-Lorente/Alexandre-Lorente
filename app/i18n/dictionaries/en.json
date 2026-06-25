@@ -1,0 +1,429 @@
+{
+  "nav": {
+    "home": "Home",
+    "activities": "Activities",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Contact",
+    "ctaLong": "Contact Alexandre",
+    "openMenu": "Open menu",
+    "switchLanguage": "EN / FR"
+  },
+  "hero": {
+    "title": "Private ski & snowboard lessons in Tignes Val d’Isère",
+    "subtitle": "Progress at your own pace with a personal teaching approach adapted to the mountain conditions.",
+    "bookCta": "Book a session",
+    "discoverCta": "Discover activities",
+    "badgeTitle": "Tailored coaching",
+    "badges": ["French State Diploma", "Ski & Snowboard", "Instructor Evolution 2"],
+    "explore": "Explore"
+  },
+  "homeActivities": {
+    "eyebrow": "Activities",
+    "title": "Ski, snowboard and mountain experiences",
+    "items": [
+      {
+        "title": "Skiing",
+        "desc": "Private lessons, technical progress and confidence on the slopes."
+      },
+      {
+        "title": "Snowboarding",
+        "desc": "From beginner to advanced rider, with a progressive approach."
+      },
+      {
+        "title": "More",
+        "desc": "Freeride, freestyle and ski touring depending on conditions."
+      }
+    ]
+  },
+  "experience": {
+    "eyebrow": "The experience",
+    "title": "One mountain, many ways to experience it",
+    "paragraphs": [
+      "Each session is designed as a tailored moment: to progress, build confidence, discover new terrain or simply enjoy a beautiful day in the mountains.",
+      "The goal is to guide you with calm, precise and supportive teaching, adapting the pace to the conditions, your level and your goals."
+    ],
+    "approachLabel": "Approach",
+    "approach": ["Teaching", "Confidence", "Enjoyment"]
+  },
+  "why": {
+    "eyebrow": "Why Alexandre",
+    "title": "Progress without pressure, with confidence",
+    "intro": "The idea is not just to ski more runs, but to build an experience where each piece of advice truly helps you feel better on snow.",
+    "reasons": [
+      {
+        "title": "Clear teaching",
+        "text": "Simple, precise and adapted guidance to understand, improve and build confidence."
+      },
+      {
+        "title": "Your own pace",
+        "text": "Each session adapts to your level, your feelings and your goals for the day."
+      },
+      {
+        "title": "Real mountain culture",
+        "text": "An approach rooted in the alpine environment, combining enjoyment, safety and discovery."
+      }
+    ]
+  },
+  "aboutPreview": {
+    "eyebrow": "About",
+    "title": "A life shaped by the mountains",
+    "paragraphs": [
+      "I have lived in the mountains since childhood. This environment is part of my daily life, my way of teaching and my way of sharing snow sports.",
+      "What I enjoy most is sharing knowledge: helping each person progress, gain confidence and fully enjoy the mountains."
+    ],
+    "badges": ["French State Diploma", "Évolution 2", "FR / EN"],
+    "cta": "Learn more",
+    "philosophyLabel": "Philosophy",
+    "philosophy": "Teaching with calm, clarity and passion."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Before booking",
+    "intro": "A few simple answers to help prepare your session in Tignes or Val d’Isère.",
+    "items": [
+      {
+        "q": "Where do we meet for the lesson?",
+        "a": "I organise the meeting point with you depending on your level, accommodation and current conditions."
+      },
+      {
+        "q": "Do I already need a ski pass?",
+        "a": "It depends on the type of session and your level. I can advise you before the lesson."
+      },
+      {
+        "q": "Can we book as a group?",
+        "a": "Yes, I can organise sessions with friends or family when the levels are compatible."
+      },
+      {
+        "q": "What happens in bad weather?",
+        "a": "I adapt the sessions to the conditions to ensure the best possible mountain experience."
+      },
+      {
+        "q": "What equipment should I bring?",
+        "a": "I can advise you before the session so you bring equipment adapted to your activity and the weather."
+      },
+      {
+        "q": "Is off-piste accessible for everyone?",
+        "a": "Freeride depends on technical level, conditions and the goals of the day."
+      }
+    ]
+  },
+  "finalCta": {
+    "eyebrow": "Book",
+    "title": "Ready to experience the mountains differently?",
+    "subtitle": "Send me a message directly to organise a session adapted to your level, goals and current conditions.",
+    "cta": "Book a session"
+  },
+  "footer": {
+    "tagline": "Ski & snowboard instructor in Tignes and Val d’Isère.",
+    "navTitle": "Navigation",
+    "coursesTitle": "Lessons",
+    "profile": "Evolution 2 profile",
+    "languages": "Français · English",
+    "rights": "All rights reserved."
+  },
+  "activitiesPage": {
+    "eyebrow": "Activities",
+    "title": "Ski, snowboard & mountain experiences",
+    "intro": "Each session is designed around your level, goals and the current conditions to create a tailored experience in Tignes and Val d’Isère.",
+    "nav": {
+      "ski": "Ski",
+      "snowboard": "Snowboard",
+      "freeride": "Freeride",
+      "freestyle": "Freestyle",
+      "touring": "Ski touring"
+    },
+    "ski": {
+      "label": "Ski",
+      "title": "Progress with confidence and fluidity",
+      "text": "From first turns to technical improvement, each session is adapted to your level, pace and goals."
+    },
+    "snowboard": {
+      "label": "Snowboard",
+      "title": "Discover new sensations on snow",
+      "text": "A progressive and supportive approach to gain confidence, control and ease on all types of terrain."
+    },
+    "immersive": {
+      "eyebrow": "Mountain",
+      "title": "Another way to explore the mountains"
+    },
+    "freeride": {
+      "label": "Freeride",
+      "title": "Leave the slopes and discover wilder terrain",
+      "text": "Freeride depends on conditions, ability and the goals of the day. The objective remains the same: safety, fluidity and enjoyment."
+    },
+    "freestyle": {
+      "label": "Freestyle",
+      "title": "Build style, technique and confidence",
+      "text": "Work on lines, balance, jumps and fluidity with progression adapted to your level and goals."
+    },
+    "touring": {
+      "label": "Ski touring",
+      "title": "Take the time to explore the mountains",
+      "text": "A more contemplative experience, away from the pace of the slopes, depending on conditions and your level."
+    },
+    "lessonsEyebrow": "Lessons by resort & activity",
+    "lessonsTitle": "Choose your lesson in Tignes or Val d’Isère",
+    "final": {
+      "eyebrow": "Advice",
+      "title": "Not sure which activity to choose?",
+      "text": "Send me a message directly and we will decide together which experience best matches your level and goals.",
+      "cta": "Contact me"
+    }
+  },
+  "aboutPage": {
+    "eyebrow": "About",
+    "title": "The mountains as a way of living and sharing",
+    "intro": "Since childhood, the mountains have been part of my daily life. Today, I guide skiers and snowboarders in Tignes and Val d’Isère with a human, progressive and personalised approach.",
+    "quote": "What I enjoy most is seeing someone gain confidence and truly enjoy the mountains.",
+    "storyEyebrow": "My story",
+    "story": [
+      "I grew up surrounded by mountains, skiing and snowboarding. Very early on, I developed a deep passion for snow sports and the alpine environment.",
+      "Today, I teach skiing, snowboarding, freeride, freestyle and ski touring in Tignes and Val d’Isère.",
+      "Everyone learns differently, with their own sensations and goals. My role is to create an experience adapted to each person in a reassuring, motivating environment always focused on the enjoyment of riding."
+    ],
+    "immersiveEyebrow": "The mountains",
+    "immersiveTitle": "Every day in the mountains is different",
+    "immersiveText": "Conditions, snow, weather and sensations constantly evolve. That is also what makes every session unique.",
+    "teachingEyebrow": "My way of teaching",
+    "teachingTitle": "Teaching, confidence and progression",
+    "teaching": [
+      {
+        "title": "Teaching",
+        "text": "Simple, progressive explanations adapted to your way of learning."
+      },
+      {
+        "title": "Confidence",
+        "text": "Creating a reassuring environment to progress without pressure."
+      },
+      {
+        "title": "Enjoyment",
+        "text": "The most important thing always remains the enjoyment of riding and the mountains."
+      }
+    ],
+    "evolutionTitle": "A professional and recognised framework",
+    "evolutionText": "A French State certified instructor with 13 years of experience, I currently teach with Evolution 2 in Tignes and Val d’Isère, in both French and English.",
+    "ctaEyebrow": "Contact",
+    "ctaTitle": "Would you like to experience the mountains differently?",
+    "ctaText": "Send me a message directly to organise a session adapted to your level, goals and current conditions.",
+    "cta": "Contact me"
+  },
+  "contactPage": {
+    "eyebrow": "Contact",
+    "title": "Plan a session easily",
+    "intro": "Message me directly on WhatsApp or SMS to discuss your level, goals and current conditions.",
+    "whatsappTitle": "Send a message",
+    "whatsappText": "The easiest and fastest way.",
+    "smsTitle": "Send an SMS",
+    "smsText": "A simple alternative if you prefer to write directly.",
+    "note": "Reply as soon as possible depending on lessons and mountain conditions."
+  },
+  "whatsapp": {
+    "home": "Hi Alexandre, I would like more information about booking a session in Tignes / Val d’Isère.",
+    "activities": "Hi Alexandre, I would like more information about the activities offered in Tignes / Val d’Isère.",
+    "about": "Hi Alexandre, I would like more information about organising a session in Tignes / Val d’Isère.",
+    "contact": "Hi Alexandre, I would like more information about booking a session in Tignes / Val d’Isère.",
+    "skiTignes": "Hi Alexandre, I would like to book a private ski lesson in Tignes.",
+    "skiValdisere": "Hi Alexandre, I would like to book a private ski lesson in Val d’Isère.",
+    "snowboard": "Hi Alexandre, I would like to book a snowboard lesson in Tignes / Val d’Isère.",
+    "freeride": "Hi Alexandre, I would like to organise a freeride / off-piste outing in Tignes / Val d’Isère."
+  },
+  "alt": {
+    "hero": "Skier riding the snowy peaks of Tignes and Val d’Isère",
+    "portrait": "Alexandre Lorente, ski and snowboard instructor in Tignes and Val d’Isère",
+    "ski": "Ski lesson on the slopes of Tignes and Val d’Isère",
+    "snowboard": "Snowboard lesson in Tignes and Val d’Isère",
+    "freeride": "Off-piste freeride session in Tignes and Val d’Isère",
+    "freestyle": "Freestyle session in the snowpark of Tignes and Val d’Isère",
+    "touring": "Ski touring outing in Tignes and Val d’Isère",
+    "mountain": "Mountain landscape in Tignes and Val d’Isère"
+  },
+  "meta": {
+    "home": {
+      "title": "Private ski & snowboard lessons in Tignes and Val d’Isère",
+      "description": "Private ski, snowboard, freeride, freestyle and ski touring lessons in Tignes and Val d’Isère with Alexandre Lorente, French State certified instructor (Evolution 2)."
+    },
+    "activities": {
+      "title": "Activities — Ski, snowboard, freeride & freestyle in Tignes Val d’Isère",
+      "description": "Ski, snowboard, freeride, freestyle and ski touring lessons in Tignes and Val d’Isère. Tailored private sessions adapted to your level with Alexandre Lorente."
+    },
+    "about": {
+      "title": "About Alexandre Lorente — Ski instructor in Tignes Val d’Isère",
+      "description": "A French State certified instructor with Evolution 2, Alexandre Lorente teaches ski and snowboard in Tignes and Val d’Isère with a human, personalised approach."
+    },
+    "contact": {
+      "title": "Contact — Book a ski lesson in Tignes Val d’Isère",
+      "description": "Contact Alexandre Lorente on WhatsApp or SMS to book a private ski or snowboard lesson in Tignes and Val d’Isère."
+    },
+    "skiTignes": {
+      "title": "Private ski lessons in Tignes — Qualified instructor",
+      "description": "Private ski lessons in Tignes with Alexandre Lorente, French State certified instructor (Evolution 2) based in Val Claret. 13 years’ experience, all levels, French/English."
+    },
+    "skiValdisere": {
+      "title": "Private ski lessons in Val d’Isère — Qualified instructor",
+      "description": "Private ski lessons in Val d’Isère with Alexandre Lorente, French State certified instructor (Evolution 2). 13 years’ experience across the whole area, beginner to advanced."
+    },
+    "snowboard": {
+      "title": "Snowboard lessons in Tignes and Val d’Isère — Private instructor",
+      "description": "Private snowboard lessons in Tignes and Val d’Isère with Alexandre Lorente, certified instructor. Tailored progression from beginner to advanced rider, French/English."
+    },
+    "freeride": {
+      "title": "Freeride & off-piste in Tignes and Val d’Isère — Instructor",
+      "description": "Freeride and off-piste in Tignes and Val d’Isère with Alexandre Lorente, certified instructor who knows the whole area. Tailored outings, safety and enjoyment."
+    }
+  },
+  "landing": {
+    "skiTignes": {
+      "eyebrow": "Ski lessons in Tignes",
+      "h1": "Private ski lessons in Tignes",
+      "intro": "A French State certified ski instructor based in Tignes Val Claret, Alexandre Lorente guides you across the entire Tignes – Val d’Isère ski area. Tailored private lessons, from your very first turns to off-piste skiing, built around your level and the day’s conditions.",
+      "sections": [
+        {
+          "title": "Skiing in Tignes, a high-altitude resort",
+          "body": [
+            "Sitting above 2,100 metres, Tignes is one of the most snow-sure resorts in the Alps, with skiing that stretches from autumn to spring thanks to the Grande Motte glacier.",
+            "Between Val Claret, Tignes le Lac and Le Lavachet, the area offers every kind of terrain: gentle slopes for beginners, long runs to link turns, and direct access to the vast linked area of Val d’Isère."
+          ]
+        },
+        {
+          "title": "Private lessons tailored to your level",
+          "body": [
+            "Every session is one-to-one or in a small private group (friends, family), so you progress at your own pace without pressure. A beginner discovering the snow, an intermediate looking for ease, or an advanced skier after precision: the content adapts entirely to you.",
+            "We agree the meeting point together depending on your accommodation, level and the weather, to make the most of your time on the snow."
+          ]
+        },
+        {
+          "title": "An instructor who knows every corner of the area",
+          "body": [
+            "With 13 years of experience and a life spent in Tignes, Alexandre knows the area inside out, on and off the piste. This deep knowledge of the terrain and conditions means you always ski in the right place, at the right time.",
+            "Lessons are delivered in French or English, in a reassuring setting focused on the pleasure of the mountains."
+          ]
+        }
+      ],
+      "highlightsTitle": "Why a private lesson in Tignes?",
+      "highlights": [
+        "French State certified instructor, 13 years’ experience",
+        "Based in Tignes Val Claret, complete knowledge of the area",
+        "Bilingual lessons, French / English",
+        "From first turns to off-piste skiing"
+      ],
+      "ctaTitle": "Book your ski lesson in Tignes",
+      "ctaText": "Message me directly to plan a session adapted to your level and the current conditions.",
+      "cta": "Book a lesson"
+    },
+    "skiValdisere": {
+      "eyebrow": "Ski lessons in Val d’Isère",
+      "h1": "Private ski lessons in Val d’Isère",
+      "intro": "A French State certified ski instructor with Evolution 2, Alexandre Lorente gives private lessons in Val d’Isère and across the whole Tignes – Val d’Isère ski area. A personalised approach to progress with confidence, whatever your level.",
+      "sections": [
+        {
+          "title": "Val d’Isère, a legendary resort",
+          "body": [
+            "A legendary resort and World Cup venue, Val d’Isère unfolds an outstanding ski area across the Bellevarde, Solaise and La Daille sectors, linked to Tignes to form one of the largest ski areas in the Alps.",
+            "From the gentle slopes of the resort front to the famous descents of the Face de Bellevarde, everyone finds terrain to match."
+          ]
+        },
+        {
+          "title": "Tailored lessons, beginner to advanced",
+          "body": [
+            "In a private lesson, all the attention is on you: fundamentals and confidence for beginners, flow and carving for intermediates, technical precision and varied terrain for advanced skiers.",
+            "The pace, goals and route of the day are set with you, for a truly personalised experience."
+          ]
+        },
+        {
+          "title": "Complete knowledge of the area",
+          "body": [
+            "Based in Tignes but in love with Val d’Isère, Alexandre has been teaching across the whole area for 13 years, on and off the piste. He knows where to go depending on the snow, the light and the crowds to make the most of every session.",
+            "Lessons available in French and English, in a relaxed and motivating atmosphere."
+          ]
+        }
+      ],
+      "highlightsTitle": "Why a private lesson in Val d’Isère?",
+      "highlights": [
+        "French State certified instructor, 13 years’ experience",
+        "Detailed knowledge of Bellevarde, Solaise and La Daille",
+        "Bilingual lessons, French / English",
+        "All levels, from beginner to off-piste"
+      ],
+      "ctaTitle": "Book your ski lesson in Val d’Isère",
+      "ctaText": "Message me directly to plan a session adapted to your level and the current conditions.",
+      "cta": "Book a lesson"
+    },
+    "snowboard": {
+      "eyebrow": "Snowboard lessons",
+      "h1": "Snowboard lessons in Tignes and Val d’Isère",
+      "intro": "From complete beginner to confident rider, Alexandre Lorente, a French State certified instructor, offers private snowboard lessons in Tignes and Val d’Isère. A gradual, supportive progression across the whole area.",
+      "sections": [
+        {
+          "title": "Learning and progressing on a snowboard",
+          "body": [
+            "Snowboarding has its own logic of riding and balance. In a private lesson, we build the basics step by step — stance, turns, edging — to gain ease and control without getting discouraged.",
+            "For riders who are already comfortable, we work on flow, lines and adapting to every type of terrain."
+          ]
+        },
+        {
+          "title": "A huge playground",
+          "body": [
+            "The linked Tignes – Val d’Isère area offers ideal slopes for beginners as well as more committing terrain for fun, plus snowparks for those who want to try freestyle.",
+            "The choice of sector and pace adapts to your level and the day’s conditions."
+          ]
+        },
+        {
+          "title": "Personalised coaching",
+          "body": [
+            "With 13 years of experience and complete knowledge of the area, Alexandre adapts every session to your feelings and goals, in French or English.",
+            "The aim always stays the same: to progress with confidence and enjoy yourself on the snow."
+          ]
+        }
+      ],
+      "highlightsTitle": "Why a private snowboard lesson?",
+      "highlights": [
+        "From beginner to confident rider",
+        "French State certified instructor, 13 years’ experience",
+        "The whole Tignes – Val d’Isère area",
+        "Bilingual lessons, French / English"
+      ],
+      "ctaTitle": "Book your snowboard lesson",
+      "ctaText": "Message me directly to plan a session adapted to your level and the current conditions.",
+      "cta": "Book a lesson"
+    },
+    "freeride": {
+      "eyebrow": "Freeride & off-piste",
+      "h1": "Freeride in Tignes and Val d’Isère",
+      "intro": "The Tignes – Val d’Isère area is one of the finest freeride playgrounds in the Alps. Alexandre Lorente, a French State certified instructor who knows every corner of the area, guides you off the piste according to your level and the conditions.",
+      "sections": [
+        {
+          "title": "Leaving the piste with confidence",
+          "body": [
+            "Freeride is not improvised: it depends on technical level, snow quality and safety on the day. With an instructor who knows the area perfectly, you discover off-piste in the best possible conditions.",
+            "From easy first powder lines to more committing descents, progression happens step by step."
+          ]
+        },
+        {
+          "title": "Safety first",
+          "body": [
+            "Reading the terrain, choosing slopes, managing conditions: every outing is designed to move with safety, flow and enjoyment. Off-piste remains a natural environment to respect, and the instructor’s experience makes all the difference.",
+            "The route is chosen according to your level, your goals and the day’s weather."
+          ]
+        },
+        {
+          "title": "13 years exploring the area",
+          "body": [
+            "Based in Tignes, Alexandre has explored the Tignes – Val d’Isère area for 13 years, on and off the piste. He knows where to find the best snow depending on aspect, time of day and conditions.",
+            "Guided outings in French or English, to experience the mountains differently."
+          ]
+        }
+      ],
+      "highlightsTitle": "Why freeride with Alexandre?",
+      "highlights": [
+        "Complete knowledge of the area, on and off the piste",
+        "French State certified instructor, 13 years’ experience",
+        "Routes adapted to your level and the conditions",
+        "Bilingual lessons, French / English"
+      ],
+      "ctaTitle": "Plan your freeride outing",
+      "ctaText": "Message me directly and we’ll work out the best outing for your level and the conditions.",
+      "cta": "Contact me"
+    }
+  }
+}
