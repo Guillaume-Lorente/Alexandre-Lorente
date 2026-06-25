@@ -11,10 +11,23 @@ export function isLocale(value: string): value is Locale {
 }
 
 // Canonical, absolute site URL. Used for metadataBase, hreflang, sitemap and
-// JSON-LD. Override with NEXT_PUBLIC_SITE_URL in the deploy environment.
-export const SITE_URL = (
-  process.env.NEXT_PUBLIC_SITE_URL ?? 'https://alexandre-lorente.fr'
-).replace(/\/$/, '');
+// JSON-LD (server-side only).
+//
+// Resolution order:
+//   1. NEXT_PUBLIC_SITE_URL — explicit override (set this once you own a domain).
+//   2. VERCEL_PROJECT_PRODUCTION_URL — Vercel's stable production domain
+//      (the custom domain if assigned, otherwise the *.vercel.app one). This
+//      makes canonical/hreflang/OG correct on the very first deploy with zero
+//      configuration, and auto-updates when a custom domain is added.
+//   3. Local fallback.
+function resolveSiteUrl(): string {
+  if (process.env.NEXT_PUBLIC_SITE_URL) return process.env.NEXT_PUBLIC_SITE_URL;
+  if (process.env.VERCEL_PROJECT_PRODUCTION_URL)
+    return `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`;
+  return 'https://alexandre-lorente.fr';
+}
+
+export const SITE_URL = resolveSiteUrl().replace(/\/$/, '');
 
 // Human-readable BCP-47 tags for <html lang> and Open Graph.
 export const htmlLang: Record<Locale, string> = {
