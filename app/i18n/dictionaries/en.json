@@ -141,7 +141,7 @@
     "snowboard": {
       "label": "Snowboard",
       "title": "Discover new sensations on snow",
-      "text": "A progressive and supportive approach to gain confidence, control and ease on all types of terrain."
+      "text": "A progressive and supportive approach to gain confidence, control and ease on all types of snow."
     },
     "immersive": {
       "eyebrow": "Mountain",
@@ -276,7 +276,7 @@
     "skiTignes": {
       "eyebrow": "Ski lessons in Tignes",
       "h1": "Private ski lessons in Tignes",
-      "intro": "A French State certified ski instructor based in Tignes Val Claret, Alexandre Lorente guides you across the entire Tignes – Val d’Isère ski area. Tailored private lessons, from your very first turns to off-piste skiing, built around your level and the day’s conditions.",
+      "intro": "A French State certified ski instructor based in Tignes Val Claret, I guide you across the entire Tignes – Val d’Isère ski area. Tailored private lessons for all levels, from your very first turns to off-piste skiing, built around your level and the day’s conditions.",
       "sections": [
         {
           "title": "Skiing in Tignes, a high-altitude resort",
@@ -295,7 +295,7 @@
         {
           "title": "An instructor who knows every corner of the area",
           "body": [
-            "With 13 years of experience and a life spent in Tignes, Alexandre knows the area inside out, on and off the piste. This deep knowledge of the terrain and conditions means you always ski in the right place, at the right time.",
+            "With 13 years of experience and a lifetime spent in the mountains, I know the area inside out, on and off the piste. This deep knowledge of the terrain and conditions means you always ski in the right place, at the right time.",
             "Lessons are delivered in French or English, in a reassuring setting focused on the pleasure of the mountains."
           ]
         }
@@ -314,7 +314,7 @@
     "skiValdisere": {
       "eyebrow": "Ski lessons in Val d’Isère",
       "h1": "Private ski lessons in Val d’Isère",
-      "intro": "A French State certified ski instructor with Evolution 2, Alexandre Lorente gives private lessons in Val d’Isère and across the whole Tignes – Val d’Isère ski area. A personalised approach to progress with confidence, whatever your level.",
+      "intro": "A French State certified ski instructor with Evolution 2, I give private lessons in Val d’Isère and across the whole Tignes – Val d’Isère ski area. A personalised approach to progress with confidence, whatever your level.",
       "sections": [
         {
           "title": "Val d’Isère, a legendary resort",
@@ -333,7 +333,7 @@
         {
           "title": "Complete knowledge of the area",
           "body": [
-            "Based in Tignes but in love with Val d’Isère, Alexandre has been teaching across the whole area for 13 years, on and off the piste. He knows where to go depending on the snow, the light and the crowds to make the most of every session.",
+            "Based in Tignes and in love with Val d’Isère, I have been teaching across the whole area for 13 years, on and off the piste. I know where to go depending on the snow, the light and the crowds to make the most of every session.",
             "Lessons available in French and English, in a relaxed and motivating atmosphere."
           ]
         }
@@ -352,7 +352,7 @@
     "snowboard": {
       "eyebrow": "Snowboard lessons",
       "h1": "Snowboard lessons in Tignes and Val d’Isère",
-      "intro": "From complete beginner to confident rider, Alexandre Lorente, a French State certified instructor, offers private snowboard lessons in Tignes and Val d’Isère. A gradual, supportive progression across the whole area.",
+      "intro": "From complete beginner to confident rider, a French State certified instructor, I offer private snowboard lessons in Tignes and Val d’Isère. A gradual, supportive progression across the whole area.",
       "sections": [
         {
           "title": "Learning and progressing on a snowboard",
@@ -371,7 +371,7 @@
         {
           "title": "Personalised coaching",
           "body": [
-            "With 13 years of experience and complete knowledge of the area, Alexandre adapts every session to your feelings and goals, in French or English.",
+            "With 13 years of experience and complete knowledge of the area, I adapt every session to your feelings and goals, in French or English.",
             "The aim always stays the same: to progress with confidence and enjoy yourself on the snow."
           ]
         }
@@ -390,7 +390,7 @@
     "freeride": {
       "eyebrow": "Freeride & off-piste",
       "h1": "Freeride in Tignes and Val d’Isère",
-      "intro": "The Tignes – Val d’Isère area is one of the finest freeride playgrounds in the Alps. Alexandre Lorente, a French State certified instructor who knows every corner of the area, guides you off the piste according to your level and the conditions.",
+      "intro": "The Tignes – Val d’Isère area is one of the finest freeride playgrounds in the Alps. A French State certified instructor who knows every corner of the area, I guide you off the piste according to your level and the conditions.",
       "sections": [
         {
           "title": "Leaving the piste with confidence",
@@ -403,18 +403,19 @@
           "title": "Safety first",
           "body": [
             "Reading the terrain, choosing slopes, managing conditions: every outing is designed to move with safety, flow and enjoyment. Off-piste remains a natural environment to respect, and the instructor’s experience makes all the difference.",
-            "The route is chosen according to your level, your goals and the day’s weather."
+            "The route is chosen according to your level, your goals and the day’s weather.",
+            "Before setting off, I systematically run through the safety guidelines and check that all the equipment works and is suited to off-piste. Depending on your experience, I explain or remind you how to use the safety devices (avalanche transceiver, shovel, probe, ABS airbag…)."
           ]
         },
         {
           "title": "13 years exploring the area",
           "body": [
-            "Based in Tignes, Alexandre has explored the Tignes – Val d’Isère area for 13 years, on and off the piste. He knows where to find the best snow depending on aspect, time of day and conditions.",
+            "Based in Tignes, I have explored the Tignes – Val d’Isère area for 13 years, on and off the piste. I know where to find the best snow depending on aspect, time of day and conditions.",
             "Guided outings in French or English, to experience the mountains differently."
           ]
         }
       ],
-      "highlightsTitle": "Why freeride with Alexandre?",
+      "highlightsTitle": "Why a freeride outing?",
       "highlights": [
         "Complete knowledge of the area, on and off the piste",
         "French State certified instructor, 13 years’ experience",

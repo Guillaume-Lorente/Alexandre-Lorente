@@ -52,8 +52,8 @@ export default function Navbar() {
   }, []);
 
   const navLinks = [
-    { href: localizedPath('activities', lang), label: dict.nav.activities },
     { href: localizedPath('about', lang), label: dict.nav.about },
+    { href: localizedPath('activities', lang), label: dict.nav.activities },
     { href: localizedPath('contact', lang), label: dict.nav.contact },
   ];
 

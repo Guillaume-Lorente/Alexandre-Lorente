@@ -143,9 +143,12 @@ export default function LandingContent({ landingKey }: { landingKey: LandingKey 
       {/* Internal links to related lessons */}
       <section className="px-6 pb-28">
         <div className="mx-auto max-w-7xl">
-          <p className="mb-6 text-xs font-semibold uppercase tracking-[0.28em] text-[#5B8DB8]">
-            {dict.homeActivities.eyebrow}
+          <p className="mb-4 text-xs font-semibold uppercase tracking-[0.28em] text-[#5B8DB8]">
+            {dict.activitiesPage.lessonsEyebrow}
           </p>
+          <h2 className="mb-8 max-w-3xl text-3xl font-semibold tracking-[-0.03em] text-[#0B1725] md:text-4xl">
+            {dict.activitiesPage.lessonsTitle}
+          </h2>
           <div className="grid grid-cols-1 gap-4 sm:grid-cols-3">
             {related.map((key) => (
               <Link

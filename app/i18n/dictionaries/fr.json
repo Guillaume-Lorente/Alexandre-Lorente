@@ -141,7 +141,7 @@
     "snowboard": {
       "label": "Snowboard",
       "title": "Trouver de nouvelles sensations sur la neige",
-      "text": "Une approche progressive et pédagogique pour gagner en aisance, en contrôle et en confiance sur tous types de terrains."
+      "text": "Une approche progressive et pédagogique pour gagner en aisance, en contrôle et en confiance sur tous types de neige."
     },
     "immersive": {
       "eyebrow": "Montagne",
@@ -276,7 +276,7 @@
     "skiTignes": {
       "eyebrow": "Cours de ski à Tignes",
       "h1": "Cours de ski privés à Tignes",
-      "intro": "Moniteur de ski diplômé d’État installé à Tignes Val Claret, Alexandre Lorente vous accompagne sur l’ensemble du domaine de Tignes – Val d’Isère. Des cours privés sur mesure, du tout premier virage au ski hors-piste, pensés selon votre niveau et les conditions du jour.",
+      "intro": "Moniteur de ski diplômé d’État installé à Tignes Val Claret, je vous accompagne sur l’ensemble du domaine de Tignes – Val d’Isère. Des cours particuliers sur mesure, tout public, du tout premier virage au ski hors-piste, pensés selon votre niveau et les conditions du jour.",
       "sections": [
         {
           "title": "Skier à Tignes, un domaine d’altitude",
@@ -295,7 +295,7 @@
         {
           "title": "Un moniteur qui connaît chaque recoin du domaine",
           "body": [
-            "Avec 13 ans d’expérience et une vie à Tignes, Alexandre connaît parfaitement le domaine, en piste comme en hors-piste. Cette connaissance fine du terrain et des conditions permet de toujours skier au bon endroit, au bon moment.",
+            "Fort de 13 ans d’expérience et ayant passé toute ma vie à la montagne, je connais parfaitement le domaine, en piste comme en hors-piste. Cette connaissance fine du terrain et des conditions me permet de toujours vous emmener skier au bon endroit, au bon moment.",
             "Les cours se déroulent en français ou en anglais, dans un cadre rassurant et tourné vers le plaisir de la montagne."
           ]
         }
@@ -314,7 +314,7 @@
     "skiValdisere": {
       "eyebrow": "Cours de ski à Val d’Isère",
       "h1": "Cours de ski privés à Val d’Isère",
-      "intro": "Moniteur de ski diplômé d’État au sein d’Évolution 2, Alexandre Lorente donne des cours privés à Val d’Isère et sur tout le domaine de Tignes – Val d’Isère. Une approche personnalisée pour progresser avec confiance, quel que soit votre niveau.",
+      "intro": "Moniteur de ski diplômé d’État au sein d’Évolution 2, je donne des cours privés à Val d’Isère et sur tout le domaine de Tignes – Val d’Isère. Une approche personnalisée pour progresser avec confiance, quel que soit votre niveau.",
       "sections": [
         {
           "title": "Val d’Isère, une station mythique",
@@ -333,7 +333,7 @@
         {
           "title": "La connaissance complète du domaine",
           "body": [
-            "Installé à Tignes mais amoureux de Val d’Isère, Alexandre enseigne depuis 13 ans sur l’ensemble du domaine, piste et hors-piste. Il sait où aller selon la neige, la lumière et l’affluence pour optimiser chaque session.",
+            "Installé à Tignes et amoureux de Val d’Isère, j’enseigne depuis 13 ans sur l’ensemble du domaine, piste et hors-piste. Je sais où aller selon la neige, la lumière et l’affluence pour optimiser chaque session.",
             "Cours disponibles en français et en anglais, dans une ambiance détendue et motivante."
           ]
         }
@@ -352,7 +352,7 @@
     "snowboard": {
       "eyebrow": "Cours de snowboard",
       "h1": "Cours de snowboard à Tignes et Val d’Isère",
-      "intro": "Du tout débutant au rider confirmé, Alexandre Lorente, moniteur diplômé d’État, propose des cours de snowboard privés à Tignes et Val d’Isère. Une progression progressive et bienveillante sur tout le domaine.",
+      "intro": "Du débutant complet au rider confirmé, moniteur diplômé d’État, je vous propose des cours de snowboard privés à Tignes et Val d’Isère. Une progression douce et bienveillante sur tout le domaine.",
       "sections": [
         {
           "title": "Apprendre et progresser en snowboard",
@@ -371,7 +371,7 @@
         {
           "title": "Un accompagnement personnalisé",
           "body": [
-            "Avec 13 ans d’expérience et une connaissance complète du domaine, Alexandre adapte chaque session à vos sensations et vos objectifs, en français ou en anglais.",
+            "Fort de 13 ans d’expérience et d’une connaissance complète du domaine, j’adapte chaque session à vos sensations et vos objectifs, en français ou en anglais.",
             "L’objectif reste toujours le même : progresser en confiance et prendre du plaisir sur la neige."
           ]
         }
@@ -390,7 +390,7 @@
     "freeride": {
       "eyebrow": "Freeride & hors-piste",
       "h1": "Freeride à Tignes et Val d’Isère",
-      "intro": "Le domaine de Tignes – Val d’Isère est l’un des plus beaux terrains de freeride des Alpes. Alexandre Lorente, moniteur diplômé d’État qui connaît chaque recoin du domaine, vous accompagne hors des pistes selon votre niveau et les conditions.",
+      "intro": "Le domaine de Tignes – Val d’Isère est l’un des plus beaux terrains de freeride des Alpes. Moniteur diplômé d’État qui connaît chaque recoin du domaine, je vous accompagne hors des pistes selon votre niveau et les conditions.",
       "sections": [
         {
           "title": "Sortir des pistes en confiance",
@@ -403,18 +403,19 @@
           "title": "La sécurité avant tout",
           "body": [
             "Lecture du terrain, choix des pentes, gestion des conditions : chaque sortie est pensée pour évoluer avec sécurité, fluidité et plaisir. Le hors-piste reste un milieu naturel à respecter, et l’expérience du moniteur fait toute la différence.",
-            "L’itinéraire est choisi selon votre niveau, vos envies et la météo du jour."
+            "L’itinéraire est choisi selon votre niveau, vos envies et la météo du jour.",
+            "Avant de partir, je fais un rappel systématique des consignes de sécurité et je vérifie que tout l’équipement fonctionne et qu’il est adapté au hors-piste. Selon votre expérience, je vous explique ou vous rappelle l’utilisation des appareils de sécurité (Arva, pelle, sonde, sac ABS…)."
           ]
         },
         {
           "title": "13 ans à explorer le domaine",
           "body": [
-            "Installé à Tignes, Alexandre parcourt le domaine de Tignes – Val d’Isère depuis 13 ans, en piste comme en hors-piste. Il sait où trouver la meilleure neige selon l’orientation, l’heure et les conditions.",
+            "Installé à Tignes, j’explore le domaine de Tignes – Val d’Isère depuis 13 ans, en piste comme en hors-piste. Je sais où trouver la meilleure neige selon l’orientation, l’heure et les conditions.",
             "Sorties encadrées en français ou en anglais, pour vivre la montagne autrement."
           ]
         }
       ],
-      "highlightsTitle": "Pourquoi du freeride avec Alexandre ?",
+      "highlightsTitle": "Pourquoi une sortie freeride ?",
       "highlights": [
         "Connaissance complète du domaine, piste et hors-piste",
         "Moniteur diplômé d’État, 13 ans d’expérience",
