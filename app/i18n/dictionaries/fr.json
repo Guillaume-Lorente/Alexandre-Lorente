@@ -226,7 +226,9 @@
     "skiTignes": "Bonjour Alexandre, je souhaite réserver un cours de ski privé à Tignes.",
     "skiValdisere": "Bonjour Alexandre, je souhaite réserver un cours de ski privé à Val d’Isère.",
     "snowboard": "Bonjour Alexandre, je souhaite réserver un cours de snowboard à Tignes / Val d’Isère.",
-    "freeride": "Bonjour Alexandre, je souhaite organiser une sortie freeride / hors-piste à Tignes / Val d’Isère."
+    "freeride": "Bonjour Alexandre, je souhaite organiser une sortie freeride / hors-piste à Tignes / Val d’Isère.",
+    "freestyle": "Bonjour Alexandre, je souhaite réserver un cours de freestyle à Tignes / Val d’Isère.",
+    "skiTouring": "Bonjour Alexandre, je souhaite organiser une sortie de ski de randonnée à Tignes / Val d’Isère."
   },
   "alt": {
     "hero": "Skieur évoluant sur les sommets enneigés de Tignes et Val d’Isère",
@@ -270,6 +272,14 @@
     "freeride": {
       "title": "Freeride & hors-piste à Tignes et Val d’Isère — Moniteur",
       "description": "Freeride et hors-piste à Tignes et Val d’Isère avec Alexandre Lorente, moniteur diplômé d’État qui connaît tout le domaine. Sorties sur mesure, sécurité et plaisir."
+    },
+    "freestyle": {
+      "title": "Cours de freestyle à Tignes et Val d’Isère — Ski & snowboard",
+      "description": "Cours de freestyle à Tignes et Val d’Isère avec Alexandre Lorente, moniteur diplômé d’État. Snowpark, sauts et modules à ski ou en snowboard, progression en sécurité, français/anglais."
+    },
+    "skiTouring": {
+      "title": "Ski de randonnée à Tignes et Val d’Isère — Moniteur diplômé",
+      "description": "Ski de randonnée à Tignes et Val d’Isère avec Alexandre Lorente, moniteur diplômé d’État. Sorties sur mesure loin des pistes, sécurité et connaissance du terrain, français/anglais."
     }
   },
   "landing": {
@@ -424,6 +434,82 @@
       ],
       "ctaTitle": "Organisez votre sortie freeride",
       "ctaText": "Écrivez-moi directement et nous verrons ensemble la meilleure sortie selon votre niveau et les conditions.",
+      "cta": "Me contacter"
+    },
+    "freestyle": {
+      "eyebrow": "Cours de freestyle",
+      "h1": "Cours de freestyle à Tignes et Val d’Isère",
+      "intro": "Sauts, modules, switch, fluidité… Moniteur diplômé d’État, je vous accompagne dans les snowparks de Tignes et Val d’Isère pour progresser en freestyle, à ski comme en snowboard, du premier saut aux premières figures, toujours en sécurité.",
+      "sections": [
+        {
+          "title": "Le snowpark, un vrai terrain de progression",
+          "body": [
+            "Tignes et Val d’Isère disposent de snowparks bien aménagés, avec des modules pour tous les niveaux : petites bosses et boxes pour débuter, sauts et rails plus engagés pour progresser.",
+            "On commence sur les modules adaptés à votre niveau, et on monte en difficulté seulement quand les bases sont solides."
+          ]
+        },
+        {
+          "title": "Des bases solides avant les figures",
+          "body": [
+            "Le freestyle repose d’abord sur l’équilibre, les appuis, la gestion de la vitesse et la réception. On travaille ces fondamentaux, puis le switch, les premiers sauts et la fluidité.",
+            "Que vous soyez à ski ou en snowboard, la progression est pensée pour prendre du plaisir sans se mettre en danger."
+          ]
+        },
+        {
+          "title": "Progresser en confiance et en sécurité",
+          "body": [
+            "Fort de 13 ans d’expérience, je choisis avec vous les bons modules selon votre niveau et votre aisance, et je vous donne les clés pour progresser durablement.",
+            "Cours en français ou en anglais, dans une ambiance détendue et motivante."
+          ]
+        }
+      ],
+      "highlightsTitle": "Pourquoi un cours de freestyle ?",
+      "highlights": [
+        "À ski ou en snowboard",
+        "Du premier saut aux premiers modules",
+        "Moniteur diplômé d’État, 13 ans d’expérience",
+        "Progression sécurisée, français / anglais"
+      ],
+      "ctaTitle": "Réservez votre cours de freestyle",
+      "ctaText": "Écrivez-moi directement pour organiser une session adaptée à votre niveau et aux conditions du moment.",
+      "cta": "Réserver un cours"
+    },
+    "skiTouring": {
+      "eyebrow": "Ski de randonnée",
+      "h1": "Ski de randonnée à Tignes et Val d’Isère",
+      "intro": "Loin de l’agitation des pistes, le ski de randonnée offre une autre façon de vivre la montagne. Moniteur diplômé d’État installé à Tignes, je vous emmène découvrir le domaine de Tignes – Val d’Isère, à la montée comme à la descente, selon votre niveau et les conditions.",
+      "sections": [
+        {
+          "title": "Une autre manière de vivre la montagne",
+          "body": [
+            "Le ski de randonnée, c’est l’effort de la montée récompensé par le calme, les grands espaces et une descente loin de la foule. Une expérience plus contemplative, au rythme de la nature.",
+            "C’est aussi une formidable façon de découvrir des recoins du domaine que l’on n’atteint pas depuis les remontées mécaniques."
+          ]
+        },
+        {
+          "title": "Accessible et progressif",
+          "body": [
+            "Pas besoin d’être un grand sportif pour débuter : on commence par des itinéraires courts et doux, puis on allonge selon votre forme et vos envies.",
+            "Je vous explique le matériel (peaux, couteaux, conversions) et la bonne gestion de l’effort pour profiter pleinement de la sortie."
+          ]
+        },
+        {
+          "title": "Sécurité et connaissance du terrain",
+          "body": [
+            "Fort de 13 ans d’expérience sur le domaine, je choisis l’itinéraire selon la neige, la météo et les conditions du jour, en gardant la sécurité comme priorité.",
+            "Selon la sortie, je vous rappelle l’usage des appareils de sécurité (Arva, pelle, sonde). Sorties en français ou en anglais."
+          ]
+        }
+      ],
+      "highlightsTitle": "Pourquoi une sortie de ski de randonnée ?",
+      "highlights": [
+        "Loin de l’agitation des pistes",
+        "Du premier itinéraire aux sorties plus longues",
+        "Moniteur diplômé d’État, 13 ans d’expérience",
+        "Sécurité et connaissance du terrain, français / anglais"
+      ],
+      "ctaTitle": "Organisez votre sortie de ski de randonnée",
+      "ctaText": "Écrivez-moi directement et nous verrons ensemble la sortie idéale selon votre niveau et les conditions.",
       "cta": "Me contacter"
     }
   }

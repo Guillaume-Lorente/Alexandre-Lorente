@@ -12,6 +12,8 @@ const heroImage: Record<LandingKey, string> = {
   skiValdisere: '/images/montagne3.webp',
   snowboard: '/images/snowboard.webp',
   freeride: '/images/freeride.webp',
+  freestyle: '/images/freestyle.webp',
+  skiTouring: '/images/skiRandonnee.webp',
 };
 
 const midImage: Record<LandingKey, string> = {
@@ -19,13 +21,17 @@ const midImage: Record<LandingKey, string> = {
   skiValdisere: '/images/skiRandonnee.webp',
   snowboard: '/images/snowboard2.webp',
   freeride: '/images/freeride2.webp',
+  freestyle: '/images/freeride3.webp',
+  skiTouring: '/images/montagne2.webp',
 };
 
-const altKey: Record<LandingKey, 'ski' | 'snowboard' | 'freeride'> = {
+const altKey: Record<LandingKey, 'ski' | 'snowboard' | 'freeride' | 'freestyle' | 'touring'> = {
   skiTignes: 'ski',
   skiValdisere: 'ski',
   snowboard: 'snowboard',
   freeride: 'freeride',
+  freestyle: 'freestyle',
+  skiTouring: 'touring',
 };
 
 export default function LandingContent({ landingKey }: { landingKey: LandingKey }) {

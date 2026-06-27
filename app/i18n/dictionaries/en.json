@@ -226,7 +226,9 @@
     "skiTignes": "Hi Alexandre, I would like to book a private ski lesson in Tignes.",
     "skiValdisere": "Hi Alexandre, I would like to book a private ski lesson in Val d’Isère.",
     "snowboard": "Hi Alexandre, I would like to book a snowboard lesson in Tignes / Val d’Isère.",
-    "freeride": "Hi Alexandre, I would like to organise a freeride / off-piste outing in Tignes / Val d’Isère."
+    "freeride": "Hi Alexandre, I would like to organise a freeride / off-piste outing in Tignes / Val d’Isère.",
+    "freestyle": "Hi Alexandre, I would like to book a freestyle lesson in Tignes / Val d’Isère.",
+    "skiTouring": "Hi Alexandre, I would like to organise a ski touring outing in Tignes / Val d’Isère."
   },
   "alt": {
     "hero": "Skier riding the snowy peaks of Tignes and Val d’Isère",
@@ -270,6 +272,14 @@
     "freeride": {
       "title": "Freeride & off-piste in Tignes and Val d’Isère — Instructor",
       "description": "Freeride and off-piste in Tignes and Val d’Isère with Alexandre Lorente, certified instructor who knows the whole area. Tailored outings, safety and enjoyment."
+    },
+    "freestyle": {
+      "title": "Freestyle lessons in Tignes and Val d’Isère — Ski & snowboard",
+      "description": "Freestyle lessons in Tignes and Val d’Isère with Alexandre Lorente, certified instructor. Snowpark, jumps and features on skis or snowboard, safe progression, French/English."
+    },
+    "skiTouring": {
+      "title": "Ski touring in Tignes and Val d’Isère — Certified instructor",
+      "description": "Ski touring in Tignes and Val d’Isère with Alexandre Lorente, certified instructor. Tailored outings away from the pistes, safety and local knowledge, French/English."
     }
   },
   "landing": {
@@ -424,6 +434,82 @@
       ],
       "ctaTitle": "Plan your freeride outing",
       "ctaText": "Message me directly and we’ll work out the best outing for your level and the conditions.",
+      "cta": "Contact me"
+    },
+    "freestyle": {
+      "eyebrow": "Freestyle lessons",
+      "h1": "Freestyle lessons in Tignes and Val d’Isère",
+      "intro": "Jumps, features, switch, flow… A French State certified instructor, I coach you in the snowparks of Tignes and Val d’Isère to progress in freestyle, on skis or snowboard, from your first jump to your first tricks, always safely.",
+      "sections": [
+        {
+          "title": "The snowpark, a real progression playground",
+          "body": [
+            "Tignes and Val d’Isère have well-built snowparks, with features for every level: small rollers and boxes to start, bigger jumps and rails to progress.",
+            "We start on the features that match your level, and only step up the difficulty once the basics are solid."
+          ]
+        },
+        {
+          "title": "Solid basics before the tricks",
+          "body": [
+            "Freestyle is built first on balance, stance, speed control and landings. We work on these fundamentals, then switch riding, first jumps and flow.",
+            "Whether you ride skis or a snowboard, the progression is designed for enjoyment without putting yourself at risk."
+          ]
+        },
+        {
+          "title": "Progress with confidence and safety",
+          "body": [
+            "With 13 years of experience, I choose the right features with you depending on your level and comfort, and give you the keys to keep improving.",
+            "Lessons in French or English, in a relaxed and motivating atmosphere."
+          ]
+        }
+      ],
+      "highlightsTitle": "Why a freestyle lesson?",
+      "highlights": [
+        "On skis or snowboard",
+        "From your first jump to your first features",
+        "French State certified instructor, 13 years’ experience",
+        "Safe progression, French / English"
+      ],
+      "ctaTitle": "Book your freestyle lesson",
+      "ctaText": "Message me directly to plan a session adapted to your level and the current conditions.",
+      "cta": "Book a lesson"
+    },
+    "skiTouring": {
+      "eyebrow": "Ski touring",
+      "h1": "Ski touring in Tignes and Val d’Isère",
+      "intro": "Away from the bustle of the pistes, ski touring offers another way to experience the mountains. A French State certified instructor based in Tignes, I take you to discover the Tignes – Val d’Isère area, on the way up as well as down, according to your level and the conditions.",
+      "sections": [
+        {
+          "title": "Another way to experience the mountains",
+          "body": [
+            "Ski touring is the effort of the climb rewarded by calm, wide open spaces and a descent far from the crowds. A more contemplative experience, at nature’s pace.",
+            "It is also a wonderful way to discover corners of the area you cannot reach from the lifts."
+          ]
+        },
+        {
+          "title": "Accessible and progressive",
+          "body": [
+            "You don’t need to be a top athlete to start: we begin with short, gentle routes, then go further depending on your fitness and goals.",
+            "I explain the equipment (skins, ski crampons, kick turns) and how to manage your effort to fully enjoy the outing."
+          ]
+        },
+        {
+          "title": "Safety and local knowledge",
+          "body": [
+            "With 13 years of experience in the area, I choose the route depending on the snow, the weather and the day’s conditions, always keeping safety as the priority.",
+            "Depending on the outing, I remind you how to use the safety devices (transceiver, shovel, probe). Outings in French or English."
+          ]
+        }
+      ],
+      "highlightsTitle": "Why a ski touring outing?",
+      "highlights": [
+        "Away from the bustle of the pistes",
+        "From your first route to longer outings",
+        "French State certified instructor, 13 years’ experience",
+        "Safety and local knowledge, French / English"
+      ],
+      "ctaTitle": "Plan your ski touring outing",
+      "ctaText": "Message me directly and we’ll work out the ideal outing for your level and the conditions.",
       "cta": "Contact me"
     }
   }

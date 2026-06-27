@@ -13,16 +13,26 @@ export type PageKey =
   | 'skiTignes'
   | 'skiValdisere'
   | 'snowboard'
-  | 'freeride';
+  | 'freeride'
+  | 'freestyle'
+  | 'skiTouring';
 
 // Dedicated local-SEO landing pages (subset of PageKey).
-export type LandingKey = 'skiTignes' | 'skiValdisere' | 'snowboard' | 'freeride';
+export type LandingKey =
+  | 'skiTignes'
+  | 'skiValdisere'
+  | 'snowboard'
+  | 'freeride'
+  | 'freestyle'
+  | 'skiTouring';
 
 export const landingKeys: LandingKey[] = [
   'skiTignes',
   'skiValdisere',
   'snowboard',
   'freeride',
+  'freestyle',
+  'skiTouring',
 ];
 
 // Localized slug for each page, per locale. `home` has an empty slug.
@@ -40,6 +50,14 @@ export const slugs: Record<PageKey, Record<Locale, string>> = {
   freeride: {
     fr: 'freeride-tignes-val-disere',
     en: 'freeride-tignes-val-disere',
+  },
+  freestyle: {
+    fr: 'cours-freestyle-tignes-val-disere',
+    en: 'freestyle-lessons-tignes-val-disere',
+  },
+  skiTouring: {
+    fr: 'ski-de-randonnee-tignes-val-disere',
+    en: 'ski-touring-tignes-val-disere',
   },
 };
 
